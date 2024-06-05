@@ -280,6 +280,6 @@ This gives an ongoing list of file-type magic numbers.
 
 </table>
 
-
+from: https://gist.githubusercontent.com/leommoore/f9e57ba2aa4bf197ebc5/raw/e9075d6aba6ce3344277130f869d773660f1ecd8/file_magic_numbers.md
 
 <a href="http://www.astro.keele.ac.uk/oldusers/rno/Computing/File_magic.html#Image">Source</a>
